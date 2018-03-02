@@ -1,0 +1,19 @@
+* Source
+
+#+INCLUDE: "./subdir/includee-with-links.org::*Links" :only-contents t
+
+
+* Target
+
+File link with description
+[[file:subdir/setupfile2.org][A setupfile]]
+
+File link pointing to a specific header
+[[file:normal.org::top]]
+
+Bracketed file link without description
+[[file:subdir/setupfile.org]]
+
+Plain file link
+file:subdir/setupfile.org
+

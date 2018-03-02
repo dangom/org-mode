@@ -1,0 +1,12 @@
+* Links
+File link with description
+[[file:setupfile2.org][A setupfile]]
+
+File link pointing to a specific header
+[[file:../normal.org::top]]
+
+Bracketed file link without description
+[[file:setupfile.org]]
+
+Plain file link
+file:setupfile.org
